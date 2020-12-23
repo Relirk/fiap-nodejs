@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nomeproduto":"asdasd",
+      "descricao":"asdasd",
+      "fornecedor":"asdasd",
+      "preco":150.00,
+      "datacadastro":"asdasd"
+    },
+    {
+      "id": 2,
+      "nomeproduto":"asdasd",
+      "descricao":"asdasd",
+      "fornecedor":"asdasd",
+      "preco":150.00,
+      "datacadastro":"asdasd"
+    },
+    {
+      "id": 3,
+      "nomeproduto":"asdasd",
+      "descricao":"aassdasd",
+      "fornecedor":"asdasd",
+      "preco":150.00,
+      "datacadastro":"asdasd"
+    }
+  ]
+}
